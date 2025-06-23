@@ -9,7 +9,7 @@
 I'm a recent graduate with a strong passion for full stack development and real-world problem-solving. I enjoy creating clean, responsive, and functional web applications.
 
 ### 🧠 Projects I’ve Built:
-- 🔍 **Resume Analyzer & Job Recommendation System**  
+- 🔍 **AI-Driven Resume and Job Matching System**  
   → Uses Python, OCR, NLP (TF-IDF), KNN for smart resume parsing and job matching.
 
 - 🎵 **Spotify Clone**  
