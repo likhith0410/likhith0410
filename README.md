@@ -26,7 +26,7 @@ I'm a recent graduate with a strong passion for full stack development and real-
 
 ## 📫 Let’s Connect
 - 📧 [Email](mailto:likhithgowda88923@gmail.com)  
-- 🔗 [LinkedIn](linkedin.com/in/likhith-gowda-t-r)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/likhith-gowda-t-r)
 
 ---
 
