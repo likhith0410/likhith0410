@@ -1,49 +1,67 @@
-# 👋 Hi there! I'm Likhith Gowda
+👋 Hi there! I'm Likhith Gowda
 
-🎓 B.E. Computer Science Engineering Graduate  
-💻 Python Full Stack Developer  
-🌐 Skilled in building end-to-end web applications  
-📍 Based in Bangalore, India  
+🎓 B.E. Computer Science Engineering (2021–2025) – Impact College of Engineering and Applied Sciences
+💻 Full Stack Developer | AI/ML Enthusiast
+📍 Based in Bangalore, India
 
-## 🚀 About Me
-I'm a recent graduate with a strong passion for full stack development and real-world problem-solving. I enjoy creating clean, responsive, and functional web applications.
+🚀 About Me
 
-### 🧠 Projects I’ve Built:
-- 🔍 **AI-Driven Resume and Job Matching System**  
-  → Uses Python, OCR, NLP (TF-IDF), KNN for smart resume parsing and job matching.
+I’m a creative and results-driven software developer skilled in full-stack development and AI-driven solutions. I love building scalable applications that blend functionality with real-world impact. My passion lies in integrating AI/ML with web development to simplify workflows and enhance decision-making.
 
-- 🎵 **Spotify Clone**  
-  → Developed using Django and Bootstrap with user authentication, playlists, and audio playback.
+🧠 Projects I’ve Built
 
-- 🌐 **Internship Projects (VTU Virtual Internship)**  
-  → Built full-stack apps using React.js, Python, SQL, and REST APIs.
+🤖 Personal AI Advisor
+→ Built a document-retrieval AI system with LLM integration that transforms domain-specific documents into intelligent AI advisors for Finance, Legal, and Healthcare.
+🔗 Live Demo
 
-## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL, HTML, CSS  
-- **Frameworks:** Django, React.js, Streamlit  
-- **Databases:** MySQL, SQLite  
-- **Tools:** GitHub, VS Code, Jupyter Notebook, Google Colab
+💸 Smart Expense Tracker with AI Insights
+→ Full-stack platform (React + Django) with OCR and ML integration, reducing manual entry by 80% and offering AI-powered budget recommendations.
+🔗 Live Demo
 
-## 📫 Let’s Connect
-- 📧 [Email](mailto:likhithgowda88923@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/likhith-gowda-t-r)
+💬 Advanced RAG Chatbot
+→ Retrieval-Augmented Generation chatbot with NLP + transformers, real-time document search, and glassmorphism UI for multi-user interaction.
+🔗 Live Demo
 
----
+🔍 AI-Driven Resume & Job Matching System
+→ Automated resume parsing & job matching using NLP (TF-IDF, Cosine Similarity) + KNN, improving recruiter screening accuracy by 70%.
 
-🌱 Currently exploring open-source contributions and integrating AI/ML with web development.
+🌐 VTU Virtual Internship Projects
+→ Built responsive full-stack web apps using React.js, Python, SQL, and REST APIs.
 
+🛠️ Tech Stack
 
-<!--
-**likhith0410/likhith0410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages: Python, JavaScript, SQL
 
-Here are some ideas to get you started:
+Frameworks & Libraries: Django, React.js, Streamlit, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases: PostgreSQL, MongoDB, MySQL, SQLite
+
+Tools & Platforms: GitHub, VS Code (with Copilot), Jupyter Notebook, Google Colab, Git
+
+Soft Skills: Communication, Problem-Solving, Teamwork
+
+🎓 Certifications
+
+Machine Learning & Data Science – Kar Tech Pvt. Ltd.
+
+Python & PyQt5 – Kar Tech Pvt. Ltd.
+
+🌱 Interests
+
+Exploring new programming languages
+
+Artificial Intelligence & Machine Learning
+
+Open-source contributions
+
+📫 Let’s Connect
+
+📧 Email
+
+🔗 LinkedIn
+
+💻 GitHub
+
+🌍 Portfolio
+
+⚡ “Code is not just about solving problems — it’s about creating impact.”
