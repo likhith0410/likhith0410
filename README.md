@@ -12,15 +12,12 @@ I’m a creative and results-driven software developer skilled in full-stack dev
 
 🤖 Personal AI Advisor
 → Built a document-retrieval AI system with LLM integration that transforms domain-specific documents into intelligent AI advisors for Finance, Legal, and Healthcare.
-🔗 Live Demo
 
 💸 Smart Expense Tracker with AI Insights
 → Full-stack platform (React + Django) with OCR and ML integration, reducing manual entry by 80% and offering AI-powered budget recommendations.
-🔗 Live Demo
 
 💬 Advanced RAG Chatbot
 → Retrieval-Augmented Generation chatbot with NLP + transformers, real-time document search, and glassmorphism UI for multi-user interaction.
-🔗 Live Demo
 
 🔍 AI-Driven Resume & Job Matching System
 → Automated resume parsing & job matching using NLP (TF-IDF, Cosine Similarity) + KNN, improving recruiter screening accuracy by 70%.
@@ -56,12 +53,12 @@ Open-source contributions
 
 📫 Let’s Connect
 
-📧 Email
+📧 Email: likhithgowda88923@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/likhith-gowda-t-r
 
-💻 GitHub
+💻 GitHub: https://github.com/likhith0410
 
-🌍 Portfolio
+🌍 Portfolio: https://e5h6i7cdndyj.manus.space/
 
 ⚡ “Code is not just about solving problems — it’s about creating impact.”
