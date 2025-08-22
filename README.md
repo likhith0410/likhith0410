@@ -1,64 +1,69 @@
-👋 Hi there! I'm Likhith Gowda
+# 👋 Hi there! I'm Likhith Gowda  
 
-🎓 B.E. Computer Science Engineering (2021–2025) – Impact College of Engineering and Applied Sciences
-💻 Full Stack Developer | AI/ML Enthusiast
-📍 Based in Bangalore, India
+🎓 **B.E. Computer Science Engineering (2021–2025)** – Impact College of Engineering and Applied Sciences  
+💻 **Full Stack Developer | AI/ML Enthusiast**  
+📍 **Based in Bangalore, India**  
 
-🚀 About Me
+---
 
-I’m a creative and results-driven software developer skilled in full-stack development and AI-driven solutions. I love building scalable applications that blend functionality with real-world impact. My passion lies in integrating AI/ML with web development to simplify workflows and enhance decision-making.
+## 🚀 About Me  
+I’m a **creative and results-driven software developer** skilled in **full-stack development** and **AI-driven solutions**.  
+I love building scalable applications that blend functionality with real-world impact.  
+My passion lies in integrating **AI/ML with web development** to simplify workflows and enhance decision-making.  
 
-🧠 Projects I’ve Built
+---
 
-🤖 Personal AI Advisor
-→ Built a document-retrieval AI system with LLM integration that transforms domain-specific documents into intelligent AI advisors for Finance, Legal, and Healthcare.
+## 🧠 Projects I’ve Built  
 
-💸 Smart Expense Tracker with AI Insights
-→ Full-stack platform (React + Django) with OCR and ML integration, reducing manual entry by 80% and offering AI-powered budget recommendations.
+### 🤖 Personal AI Advisor  
+→ Built a document-retrieval AI system with LLM integration that transforms domain-specific documents into intelligent AI advisors for Finance, Legal, and Healthcare.  
 
-💬 Advanced RAG Chatbot
-→ Retrieval-Augmented Generation chatbot with NLP + transformers, real-time document search, and glassmorphism UI for multi-user interaction.
+### 💸 Smart Expense Tracker with AI Insights  
+→ Full-stack platform (React + Django) with OCR and ML integration, reducing manual entry by 80% and offering AI-powered budget recommendations.  
 
-🔍 AI-Driven Resume & Job Matching System
-→ Automated resume parsing & job matching using NLP (TF-IDF, Cosine Similarity) + KNN, improving recruiter screening accuracy by 70%.
+### 💬 Advanced RAG Chatbot  
+→ Retrieval-Augmented Generation chatbot with NLP + transformers, real-time document search, and glassmorphism UI for multi-user interaction.  
 
-🌐 VTU Virtual Internship Projects
-→ Built responsive full-stack web apps using React.js, Python, SQL, and REST APIs.
+### 🔍 AI-Driven Resume & Job Matching System  
+→ Automated resume parsing & job matching using NLP (TF-IDF, Cosine Similarity) + KNN, improving recruiter screening accuracy by 70%.  
 
-🛠️ Tech Stack
+### 🌐 VTU Virtual Internship Projects  
+→ Built responsive full-stack web apps using React.js, Python, SQL, and REST APIs.  
 
-Languages: Python, JavaScript, SQL
+---
 
-Frameworks & Libraries: Django, React.js, Streamlit, HTML, CSS
+## 🛠️ Tech Stack  
 
-Databases: PostgreSQL, MongoDB, MySQL, SQLite
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks & Libraries:** Django, React.js, Streamlit, HTML, CSS  
+- **Databases:** PostgreSQL, MongoDB, MySQL, SQLite  
+- **Tools & Platforms:** GitHub, VS Code (with Copilot), Jupyter Notebook, Google Colab, Git  
+- **Soft Skills:** Communication, Problem-Solving, Teamwork  
 
-Tools & Platforms: GitHub, VS Code (with Copilot), Jupyter Notebook, Google Colab, Git
+---
 
-Soft Skills: Communication, Problem-Solving, Teamwork
+## 🎓 Certifications  
 
-🎓 Certifications
+- Machine Learning & Data Science – Kar Tech Pvt. Ltd.  
+- Python & PyQt5 – Kar Tech Pvt. Ltd.  
 
-Machine Learning & Data Science – Kar Tech Pvt. Ltd.
+---
 
-Python & PyQt5 – Kar Tech Pvt. Ltd.
+## 🌱 Interests  
 
-🌱 Interests
+- Exploring new programming languages  
+- Artificial Intelligence & Machine Learning  
+- Open-source contributions  
 
-Exploring new programming languages
+---
 
-Artificial Intelligence & Machine Learning
+## 📫 Let’s Connect  
 
-Open-source contributions
+📧 **Email:** [likhithgowda88923@gmail.com](mailto:likhithgowda88923@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/likhith-gowda-t-r](https://www.linkedin.com/in/likhith-gowda-t-r)  
+💻 **GitHub:** [github.com/likhith0410](https://github.com/likhith0410)  
+🌍 **Portfolio:** [My Portfolio](https://e5h6i7cdndyj.manus.space/)  
 
-📫 Let’s Connect
+---
 
-📧 Email: likhithgowda88923@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/likhith-gowda-t-r
-
-💻 GitHub: https://github.com/likhith0410
-
-🌍 Portfolio: https://e5h6i7cdndyj.manus.space/
-
-⚡ “Code is not just about solving problems — it’s about creating impact.”
+⚡ *“Code is not just about solving problems — it’s about creating impact.”*  
