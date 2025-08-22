@@ -59,10 +59,12 @@ My passion lies in integrating **AI/ML with web development** to simplify workfl
 
 ## 📫 Let’s Connect  
 
-📧 **Email:** [likhithgowda88923@gmail.com](mailto:likhithgowda88923@gmail.com)  
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d40fd1e3-3314-4721-ba54-6d797d3a7aad" />
- **LinkedIn:** [linkedin.com/in/likhith-gowda-t-r](https://www.linkedin.com/in/likhith-gowda-t-r)  
-💻 **GitHub:** [github.com/likhith0410](https://github.com/likhith0410)  
+ **Email:** [likhithgowda88923@gmail.com](mailto:likhithgowda88923@gmail.com)  
+
+**LinkedIn:** [linkedin.com/in/likhith-gowda-t-r](https://www.linkedin.com/in/likhith-gowda-t-r)  
+
+**GitHub:** [github.com/likhith0410](https://github.com/likhith0410)  
+
 
 ---
 
